@@ -11,16 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Microbiology, Immunology and Molecular Genetics, University of California, Los Angeles, 2015
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* March 2016 - Present: Staff Research Associate II
+  * [UCLA](https://ucla.edu) [David Geffen School of Medicine](https://medschool.ucla.edu)
+  * [Department of Pathology and Laboratory Medicine](https://pathology.ucla.edu)
+  * [Laboratory of Michael Teitell](https://teitell-lab.dgsom.ucla.edu)
+  * Duties included: Various
+  * Supervisor: Dr. Michael Teitell
 
 * Fall 2015: Research Assistant
   * Github University
