@@ -84,10 +84,10 @@ author:
   bio              : "Staff Research Associate II, Department of Pathology and Laboratory Medicine"
   location         : "University of California, Los Angeles"
   employer         : "Teitell Laboratory"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=IPMT_SEAAAAJ&hl=en"
   email            : "FAhsan@mednet.ucla.edu"
   uri              :
-  bitbucket        :
+  bitbucket        : "https://bitbucket.org/ahsanfasih/"
   codepen          :
   dribbble         :
   flickr           :
@@ -98,11 +98,11 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/fahsan"
+  orcid            : "https://orcid.org/0000-0001-8031-7056"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : "https://bioinformatics.stackexchange.com/users/3296/fasih-ahsan"
   steam            :
   tumblr           :
   twitter          : "fahsan"
