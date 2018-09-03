@@ -82,12 +82,15 @@ author:
   name             : "Fasih Ahsan"
   avatar           : "fahsan.jpg"
   bio              : "Staff Research Associate II, Department of Pathology and Laboratory Medicine"
-  location         : "University of California, Los Angeles"
-  employer         : "Teitell Laboratory"
+  location         : "University of California, Los Angeles, David Geffen School of Medicine"
+  employer         : "Teitell Laboratory
+  <address>
+  675 Charles E. Young Drive South<br /> 4-567 MRL Building<br /> Los Angeles, CA 90095-1732<br /> United States
+</address>"
   googlescholar    : "https://scholar.google.com/citations?user=IPMT_SEAAAAJ&hl=en"
   email            : "FAhsan@mednet.ucla.edu"
   uri              :
-  bitbucket        : "https://bitbucket.org/ahsanfasih/"
+  bitbucket        : "ahsanfasih"
   codepen          :
   dribbble         :
   flickr           :
@@ -98,11 +101,11 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/fahsan"
+  linkedin         : "fahsan"
   orcid            : "https://orcid.org/0000-0001-8031-7056"
   pinterest        :
   soundcloud       :
-  stackoverflow    : "https://bioinformatics.stackexchange.com/users/3296/fasih-ahsan"
+  stackoverflow    : "3296/fasih-ahsan"
   steam            :
   tumblr           :
   twitter          : "fahsan"
