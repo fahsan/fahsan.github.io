@@ -1,9 +1,9 @@
 ---
 title: "Ampk regulates IgD expression but not energy stress with B cell activation"
 collection: publications
-permalink: /publication/2019-07-07-Waters-ScientificReports-2019
+permalink: /publication/2019-06-03-Waters-ScientificReports-2019
 excerpt: 'Ampk is an energy gatekeeper that responds to decreases in ATP by inhibiting energy-consuming anabolic processes and promoting energy-generating catabolic processes. Recently, we showed that Lkb1, an understudied kinase in B lymphocytes and a major upstream kinase for Ampk, had critical and unexpected roles in activating naïve B cells and in germinal center formation. Therefore, we examined whether Lkb1 activities during B cell activation depend on Ampk and report surprising Ampk activation with in vitro B cell stimulation in the absence of energy stress, coupled to rapid biomass accumulation. Despite Ampk activation and a controlling role for Lkb1 in B cell activation, Ampk knockout did not significantly affect B cell activation, differentiation, nutrient dynamics, gene expression, or humoral immune responses. Instead, Ampk loss specifically repressed the transcriptional expression of IgD and its regulator, Zfp318. Results also reveal that early activation of Ampk by phenformin treatment impairs germinal center formation but does not significantly alter antibody responses. Combined, the data show an unexpectedly specific role for Ampk in the regulation of IgD expression during B cell activation.'
-date: 2019-07-07
+date: 2019-06-03
 venue: 'Scientific Reports'
 paperurl: 'http://fahsan.github.io/files/Waters-ScientificReports-2019.pdf'
 citation: 'Waters LR, Ahsan FM, ten Hoeve J, Hong JS, Kim DNH, Minasyan A, Braas D, Graeber TG, Zangle TA, Teitell MA. (2019). &quot;Ampk regulates IgD expression but not energy stress with B cell activation.&quot; <i>Scientific Reports</i>. 9(8176), 1-14. DOI: https://doi.org/10.1038/s41598-019-43985-y'
