@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Fasih Ahsan"
 title_separator          : "-"
 name                     : &name "Fasih Ahsan"
-description              : &description "Staff Research Associate II, Department of Pathology and Laboratory Medicine, UCLA"
+description              : &description "Graduate Student Researcher, Center for Genomic Medicine, Massachusetts General Hospital"
 url                      : https://fahsan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "fahsan/fahsan.github.io"
@@ -81,14 +81,14 @@ analytics:
 author:
   name             : "Fasih Ahsan"
   avatar           : "fahsan.jpg"
-  bio              : "Staff Research Associate II<br /> Department of Pathology and Laboratory Medicine"
-  location         : "University of California, Los Angeles<br /> David Geffen School of Medicine"
-  employer         : "Teitell Laboratory
+  bio              : "Graduate Student Researcher<br /> Center for Genomic Medicine"
+  location         : "Massachusetts General Hospital Research Institute"
+  employer         : "Soukas Laboratory"
   <address>
-  675 Charles E. Young Drive South<br /> 4-567 MRL Building<br /> Los Angeles, CA 90095-1732<br /> United States
+  185 Cambridge Street<br /> CPZN 6500<br /> Boston, MA 02114<br /> United States
 </address>"
   googlescholar    : "https://scholar.google.com/citations?user=IPMT_SEAAAAJ&hl=en"
-  email            : "FAhsan@mednet.ucla.edu"
+  email            : "fahsan@g.harvard.edu"
   uri              :
   bitbucket        : "ahsanfasih"
   codepen          :
@@ -253,7 +253,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
